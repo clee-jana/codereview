@@ -3,22 +3,33 @@ And other non-code communication
 
 ---
 
+@DerekPrior
+(BostonRB May 2015)
+
+---
+
 Why do we do code reviews?
 
-* Quality
-* Catch Bugs
+* Knowledge Transfer
+* Increased Team Awareness
+* Bugs
 
 ---
 
-Code review is the discipline of *discussing* your code with your peers.
+_Code review is the discipline of *discussing* your code with your peers._
 
 ---
 
-Context
+_If content is king, then *context* is God._
+
+-- Gary Vaynerchuck
 
 ---
 
 Review
+
+* Different Styles
+* Different Perspectives
 
 ---
 
@@ -38,7 +49,7 @@ Compliment good code
 
 ---
 
-Process
+Continuous Delivery
 
 ---
 
