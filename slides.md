@@ -40,6 +40,7 @@ What to Review
 * Naming
 * Complexity
 * Test Coverages
+* *registry*
 * - style
 
 ---
