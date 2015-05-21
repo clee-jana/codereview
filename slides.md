@@ -26,14 +26,35 @@ _If content is king, then *context* is God._
 
 ---
 
-Review
+Setting Context
 
-* Different Styles
-* Different Perspectives
+* See #8123, sometimes bad
+* PR Comment, good
+* Face to Face, also good!
+
+---
+
+What to Review
+
+* Single Responsibility Principle
+* Naming
+* Complexity
+* Test Coverages
+* - style
 
 ---
 
 Discussion
+
+* Ask don't tell
+
+---
+
+"Extract these methods to a new class."
+
+---
+
+"What do you think about extracting this method to a new class?"
 
 ---
 
@@ -41,15 +62,11 @@ Discussion
 
 ---
 
-Code Style
-
----
-
 Compliment good code
 
 ---
 
-Continuous Delivery
+When to review code?
 
 ---
 
