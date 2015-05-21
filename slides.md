@@ -3,73 +3,125 @@ And other non-code communication
 
 ---
 
-@DerekPrior
-(BostonRB May 2015)
+## Thanks @DerekPrior
+
+[BostonRB May 2015 Presentation](bostonrb.org/presentations/cultivating-a-code-review-culture)
 
 ---
 
-Why do we do code reviews?
+![strong](/images/strong.png)
+
+---
+
+### Why do we do code reviews?
 
 * Knowledge Transfer
 * Increased Team Awareness
-* Bugs
+* Catch and Prevent Bugs
 
 ---
 
-_Code review is the discipline of *discussing* your code with your peers._
+## Code review is the discipline of _discussing_ your code with your peers.
 
 ---
 
-_If content is king, then *context* is God._
+## If content is king, then *context* is God.
 
--- Gary Vaynerchuck
-
----
-
-Setting Context
-
-* See #8123, sometimes bad
-* PR Comment, good
-* Face to Face, also good!
+- Gary Vaynerchuck
 
 ---
 
-What to Review
+# Setting Context
+
+---
+
+# #8404
+
+:confused:
+
+---
+
+# PR Comment
+
+![PR Comment](/images/context.png)
+
+:smiley:
+
+---
+
+## Face to Face
+
+![Face to Face](/images/facetoface.png)
+
+:thumbsup:
+
+---
+
+## What to Review
 
 * Single Responsibility Principle
 * Naming
 * Complexity
 * Test Coverages
-* *registry*
-* - style
+* Registry.getRegistry()['ANYTHING']
+* Style???
 
 ---
 
-Discussion
+## Ask don't tell
 
-* Ask don't tell
-
----
-
-"Extract these methods to a new class."
+![Ask don't tell](/images/questions.png)
 
 ---
 
-"What do you think about extracting this method to a new class?"
+## "Extract these methods to a new class."
 
 ---
 
-"Can't you *just*..."
+## "What do you think about extracting these methods to a new class?"
 
 ---
 
-Compliment good code
+# "Can't you *just*..."
 
 ---
 
-When to review code?
+# "Did you think about..."
 
 ---
 
-Grooming
+# Compliments!
 
+![Compliments](/images/compliment.png)
+
+---
+
+## When to review code?
+
+![when](/images/when.png)
+
+---
+
+# Grooming / Design
+
+![design](/images/grooming.png)
+
+---
+
+# Git Hooks
+
+![githooks](/images/githook.png)
+
+Automatic trac ticket number insertion
+---
+
+## Git Commit Messages
+
+![git cli](/images/commit-cli.png)
+![extended-comment](/images/extended-comment.png)
+
+---
+
+![Success](/images/success.png)
+
+---
