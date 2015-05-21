@@ -21,11 +21,11 @@ And other non-code communication
 
 ---
 
-## Code review is the discipline of _discussing_ your code with your peers.
+## Code review is the discipline of [discussing]() your code with your peers.
 
 ---
 
-## If content is king, then *context* is God.
+## If content is king, then [context]() is God.
 
 - Gary Vaynerchuck
 
@@ -59,12 +59,12 @@ And other non-code communication
 
 ## What to Review
 
+* [Registry]()
 * Single Responsibility Principle
 * Naming
 * Complexity
-* Test Coverages
-* Registry.getRegistry()['ANYTHING']
-* Style???
+* Test Coverage
+* Code Style?
 
 ---
 
@@ -82,7 +82,7 @@ And other non-code communication
 
 ---
 
-# "Can't you *just*..."
+# "Can't you [just]()..."
 
 ---
 
@@ -113,12 +113,19 @@ And other non-code communication
 ![githooks](/images/githook.png)
 
 Automatic trac ticket number insertion
+
 ---
 
 ## Git Commit Messages
 
 ![git cli](/images/commit-cli.png)
 ![extended-comment](/images/extended-comment.png)
+
+---
+
+## Commit History
+
+![history](/images/history.png)
 
 ---
 
